@@ -1,2 +1,3 @@
 Modificacion del archivo
-Vuelvo a modificar el archivo ahora desde el remoto.
+Vuelvo a modificar el archivo ahora
+Nuestro fichero es el bueno, no nos gustan los conflictos
